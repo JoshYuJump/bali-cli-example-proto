@@ -1,5 +1,5 @@
 syntax = "proto3";
-// The greeting service definition.
+// The helloworld service definition.
 service Helloworld {
   // Sends a greeting
   rpc SayHello (HelloRequest) returns (HelloReply) {}
